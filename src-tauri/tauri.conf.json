@@ -5,7 +5,7 @@
   "identifier": "com.template-tauri-create-v2-way.app",
   "build": {
     "beforeDevCommand": "pnpm dev",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "http://localhost:14201",
     "beforeBuildCommand": "pnpm build",
     "frontendDist": "../dist"
   },
